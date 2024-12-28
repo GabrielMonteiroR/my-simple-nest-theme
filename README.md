@@ -35,7 +35,7 @@ To install these themes, follow these steps:
 
 ### Simple Dark Theme  
 A clean, distraction-free interface tailored for simplicity.
-![alt text](darktheme.png)
+![alt text](https://github.com/GabrielMonteiroR/my-simple-nest-theme/blob/master/darktheme.png?raw=true)
 
 ### Purple Dark Theme  
 A preview of the vibrant purple accents in action. Perfect for a modern developer's workspace.
