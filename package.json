@@ -1,0 +1,28 @@
+{
+  "name": "my-simple-nest-theme",
+  "displayName": "Simple Nest Theme",
+  "description": "Just a simple extension to use with nestJs",
+  "icon": "icon.png",
+  "publisher": "GabrielMonteiroR",
+  "version": "0.0.8",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Simple Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/my simple nest theme-color-theme.json"
+      },
+      {
+        "label": "Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/putple dark theme.json"
+      }
+    ]
+  }
+}
