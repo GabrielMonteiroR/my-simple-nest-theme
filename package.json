@@ -4,7 +4,7 @@
   "description": "Just a simple extension to use with nestJs",
   "icon": "icon.png",
   "publisher": "GabrielMonteiroR",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.94.0"
   },
@@ -21,7 +21,7 @@
       {
         "label": "Purple Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/putple dark theme.json"
+        "path": "./themes/purple dark theme"
       }
     ]
   }
