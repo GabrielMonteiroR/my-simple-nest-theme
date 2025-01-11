@@ -14,12 +14,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark Red Nest",
+        "label": "A - Dark Red Nest",
         "uiTheme": "vs-dark",
         "path": "./themes/red-nest.json"
       },
       {
-        "label": "Dark Purple Charp",
+        "label": "B - Dark Purple Charp",
         "uiTheme": "vs-dark",
         "path": "./themes/purple-charp.json"
       }
