@@ -1,10 +1,10 @@
 {
   "name": "my-simple-nest-theme",
   "displayName": "Dark Nest Theme",
-  "description": "Just a simple extension to use with nestJs",
+  "description": "Just a simple extension to use with NestJS",
   "icon": "icon.png",
   "publisher": "GabrielMonteiroR",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "engines": {
     "vscode": "^1.94.0"
   },

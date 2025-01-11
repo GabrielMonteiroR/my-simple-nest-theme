@@ -25,7 +25,7 @@ To install this theme, follow these steps:
    ext install GabrielMonteiroR.my-simple-nest-theme
    ```
 
-3. After installation, open the **Command Palette** again and search for `🎛️ Preferences: Color Theme`. Select either **Simple Dark Theme** or **Dark Purple 🟣 C# Theme** to apply it.
+3. After installation, open the **Command Palette** again and search for `🎛️ Preferences: Color Theme`. Select either **Dark Red Nest** or **Dark Purple 🟣 C# Theme** to apply it.
 
 ---
 
